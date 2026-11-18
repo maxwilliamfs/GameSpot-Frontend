@@ -1,0 +1,5 @@
+-- Instalação
+
+NodeJS - Compilador de Javascript
+NPM - Gerenciador de Bibliotecas do projeto
+VITE - Servidor de desenvolvimento e build-tool (tradutor do react e typescript), instalado diretamente na pasta do projeto
