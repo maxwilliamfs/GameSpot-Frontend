@@ -1,5 +1,36 @@
 -- Instalação
 
 NodeJS - Compilador de Javascript
-NPM - Gerenciador de Bibliotecas do projeto
+npm - Gerenciador de Bibliotecas do projeto
 VITE - Servidor de desenvolvimento e build-tool (tradutor do react e typescript), instalado diretamente na pasta do projeto
+
+-- Vite Configurations --
+
+[maxwilliam@arch GameSpot-Frontend]$ npm create vite@latest
+Need to install the following packages:
+create-vite@9.3.4
+Ok to proceed? (y) y
+npm notice run npx
+npm notice run 'cva'
+
+create-vite v9.3.4
+
+│
+◇  Project name:
+│  GameSpot-Frontend
+│
+◇  Package name:
+│  gamespot-frontend
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  TypeScript
+│
+◇  Which linter to use?
+│  ESLint
+│
+
+Axios -> Fazer as requisições HTTP
+react-router -> fazer a ligação com a API 
