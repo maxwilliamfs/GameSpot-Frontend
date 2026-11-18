@@ -34,3 +34,10 @@ create-vite v9.3.4
 
 Axios -> Fazer as requisições HTTP
 react-router -> fazer a ligação com a API 
+
+Paleta de Cores:
+Marrom -> #1f0a1d
+Verde Escuro -> #334f53
+Verde Medio -> #45936c
+Verde Claro -> #9acc77
+Branco -> #e5ead4
