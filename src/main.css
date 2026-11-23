@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #f4f4f6;
+}
+h1 {
+    font-family: "Kageno";
+    src: url(./assets/fonts/Kageno.otf);
+    font-size: 4rem;
+}

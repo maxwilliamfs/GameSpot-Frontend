@@ -41,3 +41,4 @@ Verde Escuro -> #334f53
 Verde Medio -> #45936c
 Verde Claro -> #9acc77
 Branco -> #e5ead4
+Cinzinha -> #f4f4f6
